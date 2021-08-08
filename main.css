@@ -1,0 +1,19 @@
+.container {
+  width: 300vw;
+  transition: transform 0.5s;
+}
+
+.inner {
+  width: 100vw;
+  float: left;
+}
+
+.inner img {
+  width: 40%;
+}
+
+
+.dark-mode{
+  background-color: black;
+  color: white;
+}

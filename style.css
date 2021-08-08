@@ -1,0 +1,32 @@
+body {background-color: #e6ceff;}
+
+
+p {
+  text-indent: 2%;
+  text-align: left;
+  text-decoration: underline;
+}
+
+h1, h2{
+  color: #5D534A;
+  font-family: 'Do Hyeon', sans-serif;
+  text-decoration-style: wavy;
+}
+
+.profile{
+  padding: 10px 10px 400px 20px;
+  margin-left: 50px;
+}
+
+.profile img {
+  width: 50%;
+  max-width: 800px;
+  height: 30%;
+  max-height: 500px;
+}
+
+.info, .favorite-video {
+  padding: 10px 0px;
+  margin-bottom: 50px;
+  border-bottom: 1px solid lightgrey;
+}
